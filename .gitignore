@@ -1,0 +1,14 @@
+# Vivado generated files
+.cache/
+.runs/
+.sim/
+.Xil/
+.gen/
+
+*.jou
+*.log
+*.str
+
+# bitstreams
+*.bit
+*.bin
