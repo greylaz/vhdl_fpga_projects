@@ -1,7 +1,7 @@
 # vhdl_fpga_projects
 Personal and School FPGA projects
 
-# File_Types
+# File_Types  
 filename.vhd -> design source  
 filename_tb.vhd -> simulation source  
 filename_constr -> Mapped to Nexys 4 DDR Artix-7  
